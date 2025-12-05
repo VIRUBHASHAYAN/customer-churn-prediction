@@ -10,4 +10,4 @@ Tools Used:
 - Scikit-learn
 
  Model Result:
-   Accuracy: 82%
+   Accuracy 82%
